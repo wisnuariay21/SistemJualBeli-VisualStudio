@@ -1,0 +1,177 @@
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Formpelanggan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormBarang.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Formpelanggan.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+D:\zx\UBAYA\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Formpelanggan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormLogin.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormLogin.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\MySql.Data.dll
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.dll
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\MySql.Data.dll
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusKategoriBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahDaftarKategori.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusKategoriBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormLogin.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Formpelanggan.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahDaftarKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusKategoriBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahDaftarKategori.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahKategori.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPelanggan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPelanggan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPelanggan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarJabatan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusJabatan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahJabatan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahJabatan.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarJabatan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusJabatan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPelanggan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahJabatan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPelanggan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahJabatan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPelanggan.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahBarang.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPegawai.resources
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusBarang.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPegawai.resources
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.dll
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\MySql.Data.dll
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.pdb
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarBarang.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarJabatan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusBarang.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusJabatan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusKategoriBarang.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPegawai.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPelanggan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormLogin.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPelanggan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahBarang.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahDaftarKategori.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahJabatan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPegawai.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPelanggan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahBarang.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahJabatan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahKategori.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPegawai.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPelanggan.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+D:\sonny\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe.config
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.pdb
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.exe
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\Wisnu_SistemJualBeli.pdb
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarBarang.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarJabatan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarKategori.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormDaftarNotaJual.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusBarang.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusJabatan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusKategoriBarang.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPegawai.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormHapusPelanggan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormLogin.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormMenu.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaBeli.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormNotaJual.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPegawai.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormPelanggan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahBarang.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahDaftarKategori.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahJabatan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahNotaJual.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPegawai.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormTambahPelanggan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahBarang.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahJabatan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahKategori.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPegawai.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.FormUbahPelanggan.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.Properties.Resources.resources
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\obj\Debug\Wisnu_SistemJualBeli.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.dll
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.dll
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.pdb
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\MySql.Data.dll
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\MySql.Data.dll
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.dll
+C:\Users\tc4b20\Documents\Wisnoe\we\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.pdb
+D:\Kuliah Sumpek\PBD\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.csprojResolveAssemblyReference.cache
+C:\Users\tc4b20\Documents\Wisnoe\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.csprojResolveAssemblyReference.cache
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.dll
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\JualBeliClass\bin\Debug\JualBeliClass.pdb
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.csprojResolveAssemblyReference.cache
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.dll
+C:\Users\tc4b21\Downloads\Wisnu_SistemJualBeli\Wisnu_SistemJualBeli\JualBeliClass\obj\Debug\JualBeliClass.pdb
